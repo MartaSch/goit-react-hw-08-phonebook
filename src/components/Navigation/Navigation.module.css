@@ -1,0 +1,11 @@
+.Navigation {
+    display: flex;
+    gap:30px;
+}
+
+.NavigationLink {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+}

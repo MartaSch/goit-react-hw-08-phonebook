@@ -1,0 +1,17 @@
+.UserName {
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Button {
+    margin-left:20px;
+    width:80px;
+    height:30px;
+    margin-top:20px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: none;
+    background-color: rgba(103, 21, 63, 0.8);
+    color: rgba(255, 255, 255, 1);
+}

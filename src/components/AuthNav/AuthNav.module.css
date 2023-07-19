@@ -1,0 +1,11 @@
+.AuthNav {
+    display: flex;
+    gap:30px;
+    margin-right: 30px;
+}
+
+.AuthNavLink{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}

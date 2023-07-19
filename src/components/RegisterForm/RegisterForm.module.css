@@ -1,0 +1,23 @@
+.RegisterForm {
+    width: 320px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+
+.RegisterLabel {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.RegisterButton {
+    border-radius: 5px;
+    border-color: none;
+    background-color: rgba(103, 21, 63, 0.8);;
+    color: rgba(255, 255, 255, 1);
+}
+
+.InputRegister:focus{
+    outline-color: rgba(103, 21, 63, 0.8);;
+}

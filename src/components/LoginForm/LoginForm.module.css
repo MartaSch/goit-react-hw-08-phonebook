@@ -1,0 +1,22 @@
+.LoginForm{
+    width: 320px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.LoginLabel{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.InputLogin:focus{
+    outline-color: rgba(103, 21, 63, 0.8);;
+}
+
+.LoginButton{
+    border-radius: 5px;
+    border-color: none;
+    background-color: rgba(103, 21, 63, 0.8);;
+    color: rgba(255, 255, 255, 1);
+}
